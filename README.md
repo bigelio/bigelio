@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on NFC && QRcode enabled projects.
 - 🌱 I’m currently learning Linux magics, VPNs and cryptography.
-- 💬 Ask me about DevOps/DevOpsSec.
+- 💬 Ask me about DevOps/DevSecOps.
 - 📫 How to reach me:
 
 
